@@ -1,0 +1,16 @@
+/* ******************nav******************** */
+.App .logo-img{padding: 0}
+.App .logo-img img{width: 74%;vertical-align: middle;}
+.App .nav.navbar-nav{padding-right: 0.8% ;}
+.App .footer-left{float: left;width: 43%;}
+.App .footer-left>div{float: left;}
+
+/* ******************footer******************** */
+
+@media (min-width: 1200px){
+
+}
+
+@media (max-width: 768px){
+.App .logo-img img {width: 74%;}
+}
