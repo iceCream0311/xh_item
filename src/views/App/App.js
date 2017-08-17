@@ -12,6 +12,9 @@ class App extends Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
+          <a href="/about">about</a>
+          <br/>
+          <a href="/tag">tag</a>
         </p>
       </div>
     );
